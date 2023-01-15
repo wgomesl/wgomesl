@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wesley 👋
+### Welcome to my profile!👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/wesley-gomes1/)
@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox?compose=CSkGSFfgQfRRdmwkZKSMFzNRjDlqTCJdQQgWLTrPmGkDPfzvBFLMTSSDzMgVBllLqcNBBXghVdqmZzLKSQsMCZqVMPpXshQpjFJxdFDJNcrNNZGMKwhNcbsVxlltHCMqxzKvhNXqpQNgxmSMJTBWRgmkkWqZPVbcXNr)
 
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wgomesl&show_icons=true&theme=gruvbox)<br/>
+![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wgomesl&show_icons=true&theme=tokyonight)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
