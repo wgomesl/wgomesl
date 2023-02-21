@@ -9,7 +9,7 @@
 
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wgomesl&show_icons=true&theme=apprentice)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&langs_count=8&layout=compact&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&langs_count=8&hide=dockerfile&layout=compact&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
